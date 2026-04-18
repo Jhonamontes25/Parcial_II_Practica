@@ -13,6 +13,9 @@ public class Mago extends Criatura implements Magico {
         super(nombre, salud, fuerza);
         this.hechizos = new ArrayList<>();
     }
+    public List<String> getHechizos() {
+    return hechizos;
+    }
 
     @Override
     public void atacar(Criatura objetivo) {
