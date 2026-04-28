@@ -1,3 +1,5 @@
+Jhon_Alexander_Montes_Lora, Juan_David_Ortiz_Gordillo - 412
+
 # Parcial II - Práctica de Programación Orientada a Objetos
 
 Este proyecto fue desarrollado como parte del Parcial II de la asignatura de Programación II. La idea principal es aplicar los conceptos vistos en clase mediante la simulación de combates entre distintas criaturas.
